@@ -4,7 +4,7 @@
   
 </div>  
 
-<div align="left">
+
   ### Okolo-Kulak Elena
 
   <a href="https://www.linkedin.com/in/%D0%B5%D0%BB%D0%B5%D0%BD%D0%B0-%D0%BE%D0%BA%D0%BE%D0%BB%D0%BE-%D0%BA%D1%83%D0%BB%D0%B0%D0%BA-0412019b/">
@@ -13,15 +13,15 @@
   <a href="https://github.com/jurgins">
     <img align="left" alt="Ajay's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
   </a>
-</div>
 
-<div align="left">
+
+
   ### About
 
 -  **Learning :** Full-Stack Development :zap: | Open-Source :fire:	
 -  **Languages :** JavaScript, Node, React
 -  **Hobbies :** Articles & Music :headphones:  
-</div>
+
 
 
 
