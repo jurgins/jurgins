@@ -19,7 +19,7 @@
   ## About
 
 -  **Learning :** Full-Stack Development :zap: | Open-Source :fire:	
--  **Languages :** JavaScript, Node, React
+-  **Languages :** JavaScript, Node, React, PHP
 -  **Hobbies :** Articles & Music :headphones:  
 
 
